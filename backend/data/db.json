@@ -1,0 +1,83 @@
+{
+  "notas": [
+    {
+      "id": "4b76629c-d2b3-463a-9191-9db8521a7fe8",
+      "tipo": "nota",
+      "numero": "170425",
+      "data": "2025-09-04",
+      "originalname": "WhatsApp Image 2025-09-10 at 04.59.00.jpeg",
+      "filename": "1757662374065-WhatsApp_Image_2025-09-10_at_04.59.00.jpeg",
+      "path": "/uploads/1757662374065-WhatsApp_Image_2025-09-10_at_04.59.00.jpeg",
+      "url": "http://localhost:5000/uploads/1757662374065-WhatsApp_Image_2025-09-10_at_04.59.00.jpeg",
+      "uploadedAt": "2025-09-12T07:32:54.181Z"
+    },
+    {
+      "id": "75b4aee5-717f-4306-b14d-6abb779e4bf7",
+      "tipo": "nota",
+      "numero": "28475",
+      "data": "2025-07-05",
+      "originalname": "28475.pdf",
+      "filename": "1757662617156-28475.pdf",
+      "path": "/uploads/1757662617156-28475.pdf",
+      "url": "http://localhost:5000/uploads/1757662617156-28475.pdf",
+      "uploadedAt": "2025-09-12T07:36:57.189Z"
+    },
+    {
+      "id": "de6db0c8-50dd-4893-b5c8-75b66fd49793",
+      "tipo": "nota",
+      "numero": "24890",
+      "data": "2025-09-05",
+      "originalname": "24890.pdf",
+      "filename": "1757680477173-24890.pdf",
+      "path": "/uploads/1757680477173-24890.pdf",
+      "url": "http://localhost:5000/uploads/1757680477173-24890.pdf",
+      "uploadedAt": "2025-09-12T12:34:37.205Z"
+    },
+    {
+      "id": "59ba54f3-0c72-4a87-b253-5c92fcf3f51d",
+      "tipo": "nota",
+      "numero": "24890",
+      "data": "2025-09-05",
+      "originalname": "24890.pdf",
+      "filename": "1757963265857-24890.pdf",
+      "path": "/uploads/1757963265857-24890.pdf",
+      "url": "http://localhost:5000/uploads/1757963265857-24890.pdf",
+      "uploadedAt": "2025-09-15T19:07:45.900Z"
+    }
+  ],
+  "canhotos": [
+    {
+      "id": "9258a242-5ff5-42a4-ae86-6c4e778aa460",
+      "tipo": "canhoto",
+      "loja": "2",
+      "numero": "170425",
+      "originalname": "WhatsApp Image 2025-09-10 at 04.59.00.jpeg",
+      "filename": "1757662402168-WhatsApp_Image_2025-09-10_at_04.59.00.jpeg",
+      "path": "/uploads/1757662402168-WhatsApp_Image_2025-09-10_at_04.59.00.jpeg",
+      "url": "http://localhost:5000/uploads/1757662402168-WhatsApp_Image_2025-09-10_at_04.59.00.jpeg",
+      "uploadedAt": "2025-09-12T07:33:22.175Z"
+    },
+    {
+      "id": "5fa4938b-ff57-4dd7-83b4-ff50b2b71c7c",
+      "tipo": "canhoto",
+      "loja": "2",
+      "numero": "154815",
+      "originalname": "WhatsApp Image 2025-09-10 at 04.47.00.jpeg",
+      "filename": "1757680545412-WhatsApp_Image_2025-09-10_at_04.47.00.jpeg",
+      "path": "/uploads/1757680545412-WhatsApp_Image_2025-09-10_at_04.47.00.jpeg",
+      "url": "http://localhost:5000/uploads/1757680545412-WhatsApp_Image_2025-09-10_at_04.47.00.jpeg",
+      "uploadedAt": "2025-09-12T12:35:45.416Z"
+    },
+    {
+      "id": "f6073492-386f-4141-a1d4-729006a07445",
+      "tipo": "canhoto",
+      "loja": "8",
+      "numero": "190545",
+      "originalname": "image.jpg",
+      "filename": "1757680683537-image.jpg",
+      "path": "/uploads/1757680683537-image.jpg",
+      "url": "http://localhost:5000/uploads/1757680683537-image.jpg",
+      "uploadedAt": "2025-09-12T12:38:05.158Z"
+    }
+  ]
+}
